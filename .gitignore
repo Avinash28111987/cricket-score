@@ -1,0 +1,13 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Generated screenshot
+score.png
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# macOS metadata
+.DS_Store
